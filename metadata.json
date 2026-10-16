@@ -1,0 +1,6 @@
+{
+  "name": "Aura Culinary & Food Ordering",
+  "description": "Artisanal food ordering web application with responsive menu, cart & checkout validation, live order tracking, user auth, and interactive database & REST API console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
